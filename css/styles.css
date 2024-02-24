@@ -66,3 +66,18 @@ body{
 	font-family: Courier,sans-serif;
 	color: #363431;
 }
+@media(max-width: 768px){
+    .contenedor{
+        width: 400px;
+        height: 150px;
+    }
+    .reloj{
+        float: left;
+        font-size: 50px;
+        font-family: Courier,sans-serif;
+        color: #363431;
+    }
+    body{
+        height: 100vh;
+    }
+}
