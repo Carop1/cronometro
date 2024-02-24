@@ -16,8 +16,8 @@ body{
 .contenedor{
     /* opacity: 0.5; */
     border: 1px solid;
-    width: 40%;
-    height: 30%;
+    width: 600px;
+    height: 300px;
     margin: 250px auto 0 auto;
     background-color: white;
     z-index: 1;
@@ -64,7 +64,7 @@ body{
 }
 .reloj{
 	float: left;
-	font-size: 250%;
+	font-size: 80px;
 	font-family: Courier,sans-serif;
 	color: #363431;
 }
